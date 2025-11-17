@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Billy-Maina/Billy-Maina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with strong analytical and problem-solving skills, combining technical expertise with a passion for meaningful impact.  
 
-Here are some ideas to get you started:
+I work collaboratively to turn data into actionable insights that drive smarter decisions and community growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A considerable part of my journey involves exploring **Data Science**, **AI**, and **Data Engineering**, while applying data to solve real-world challenges and empower people through technology.
+
+-  **Core skills:** Python, SQL, Power BI and Excel 
+-  **Focus:** Data analysis, visualization, and applying data science ideas to real-world problems  
+
+**Strong languages:** Python · SQL · Power BI · Excel
+
+Ask me about Data Analysis, Visualization, and using Data Science for social impact. 
+
+---
+Let’s Connect: [Email](billymaina25@gmail.com), [LinkedIn](https://www.linkedin.com/in/billy-maina) 
