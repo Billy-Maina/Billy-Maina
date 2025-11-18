@@ -1,12 +1,12 @@
 Hi there 
 
-I'm a Data Analyst passionate about uncovering actionable insights that drive smarter business decisions and deliver measurable impact.
+I'm a Data Analyst passionate about uncovering actionable insights that drive smarter business decisions.
 
 I excel at the intersection of data, problem-solving, and impact. By combining technical expertise with storytelling, I transform raw data into clear narratives and visual insights that engage, explain, and enlighten stakeholders, driving informed decisions, meaningful change, and measurable impact.
 
-My journey continues through explorations in **Data Science**, **AI**, and **Data Engineering**, all aimed at amplifying the power of data for social good.
-
 I build intuitive dashboards and analytical solutions to help stakeholders visualize patterns and understand performance at a glance for informed decision-making.
+
+My journey continues through explorations in **Data Science**, **AI**, and **Data Engineering**, all aimed at amplifying the power of data for social good.
 
 ###  Core Tools & Skills  
 
