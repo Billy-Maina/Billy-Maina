@@ -6,8 +6,6 @@ I thrive at the intersection of data, problem-solving, and impact. With a blend 
 
 My journey continues through explorations in **Data Science**, **AI**, and **Data Engineering**, all aimed at amplifying the power of data for social good.
 
----
-
 ###  Core Tools & Skills  
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" />
@@ -19,23 +17,17 @@ My journey continues through explorations in **Data Science**, **AI**, and **Dat
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-005CFF?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
 
----
-
 My work centers on transforming complex data into clear, actionable insights that support smarter decision-making. I build intuitive dashboards and analytical solutions to help stakeholders visualize patterns and understand performance at a glance. 
 
 Beyond analysis, I apply predictive modeling and data science concepts to solve real-world problems and am especially passionate about using data to support social initiatives and empower communities.
 
-I’m continuously expanding my toolkit through hands-on learning in machine learning, AI solutions, and scalable data engineering pipelines. These explorations allow me to elevate traditional analysis with predictive and automated workflows, aiming to build smarter systems that scale and adapt to modern data challenges.
+I’m continuously expanding my toolkit through hands-on learning in machine learning, AI solutions, and scalable data engineering pipelines. 
 
 I love conversations around data storytelling, using analytics for social impact, building interactive dashboards, and exploring how technology can be leveraged to solve human-centered problems. 
 
 If you're working on something meaningful or just curious about how data can make a difference, let’s connect.
 
----
-
-### Connect With Me  
-
-You can reach me by email at [Email](billymaina25@gmail.com), or connect with me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/billy-maina). I'm always open to networking, collaboration, or discussing exciting opportunities in data.
+You can reach me by email at my [Email](billymaina25@gmail.com), or connect with me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/billy-maina). I'm always open to networking, collaboration, or discussing exciting opportunities in data.
 
 ---
 
